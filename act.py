@@ -5,7 +5,7 @@ import os
 import argparse
 from time import sleep
 
-
+#By said
 # This function will execute until the end of the copy
 def copy(time, verbose):
     while True:
